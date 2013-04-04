@@ -8,7 +8,7 @@ html, body {
     box-sizing: border-box;
 }
 body {
-    font-family: 'Alegreya', 'Gentium Book Basic', Palatino, Arial;
+    font-family: 'Alegreya', Palatino, Arial;
     color: rgb(7,54,56);
     background: url(trogne.png) #FDF6E5 right bottom no-repeat;
 }

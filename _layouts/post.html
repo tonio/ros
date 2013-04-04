@@ -1,3 +1,21 @@
-<div class="content">
-    {{ content }}
-</div>
+<!doctype HTML>
+<html>
+    <head>
+        <title>{{ page.title }} | Mathieu Ros, journaliste</title>
+        <meta charset="utf8"/>
+        <link rel="stylesheet" href="{{ ASSET_PATH }}/style.css" />
+        <link rel="stylesheet" href="{{ ASSET_PATH }}/css/fontello.css" />
+    </head>
+    <body>
+        <section>
+            <h1>
+                {{ page.title }}<small>,
+                par <a href="{{ HOME_PATH }}">Mathieu Ros</a></small>
+            </h1>
+        </section>
+        <section>
+            {{ content }}
+        </section>
+        <link href='http://fonts.googleapis.com/css?family=Alegreya:400,400italic,700' rel='stylesheet' type='text/css'>
+    </body>
+</html>

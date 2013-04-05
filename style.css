@@ -13,7 +13,6 @@ body {
     background: url(trogne.png) #FDF6E5 right bottom no-repeat;
 }
 section {
-    width: 1002px;
     width: 600px;
     margin: 0 auto;
     position: relative;
@@ -53,4 +52,16 @@ a {
 }
 a:hover i {
     opacity: 1;
+}
+@media (max-width: 767px) {
+    body {
+        background-size: 140px;
+    }
+    section {
+        width: auto;
+        padding: 0 1em;
+    }
+    h1 {
+        font-size: 40px;
+    }
 }

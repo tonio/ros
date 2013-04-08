@@ -10,6 +10,7 @@ html, body {
 body {
     font-family: 'Alegreya', Palatino, Arial;
     color: rgb(7,54,56);
+    height: auto;
     background: url(trogne.png) #FDF6E5 right bottom no-repeat;
 }
 section {

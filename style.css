@@ -53,7 +53,7 @@ a {
 a:hover i {
     opacity: 1;
 }
-@media (max-width: 767px) {
+@media (max-width: 480px) {
     body {
         background-size: 140px;
     }

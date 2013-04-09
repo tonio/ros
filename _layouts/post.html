@@ -3,18 +3,22 @@
     <head>
         <title>{{ page.title }} | Mathieu Ros, journaliste</title>
         <meta charset="utf8"/>
-        <link rel="stylesheet" href="{{ asset_path }}/style.css" />
-        <link rel="stylesheet" href="{{ asset_path }}/css/fontello.css" />
+        <link rel="stylesheet" href="{{ site.assets_path }}/style.css" />
+        <link rel="stylesheet" href="{{ site.assets_path }}/css/fontello.css" />
     </head>
     <body>
         <section>
             <h1>
                 {{ page.title }}<small>,
-                par <a href="{{ HOME_PATH }}">Mathieu Ros</a></small>
+                par <a href="{{ site.root_uri }}">Mathieu Ros</a></small>
+                <span>
+                    {{ page.date | date_to_long_string }}
+                </span>
             </h1>
-        </section>
-        <section>
+
+
             {{ content }}
+
         </section>
         <link href='http://fonts.googleapis.com/css?family=Alegreya:400,400italic,700' rel='stylesheet' type='text/css'>
     </body>

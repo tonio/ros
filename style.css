@@ -26,9 +26,17 @@ h1 {
     border-bottom: 1px solid #859900;
     position: relative;
 }
-h1 small {
+h1 small, h1 span {
     color       : rgb(101,123,131);
     font-weight : normal;
+}
+h1 span {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    line-height: 1em;
+    opacity: 0.5;
+    font-size: 60%;
 }
 h2 {
     font-size: 20px;

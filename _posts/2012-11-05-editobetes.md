@@ -1,3 +1,13 @@
+---
+layout: post
+title: ! 'Des bêtes sauvages'
+tags: [edito]
+category : general
+status: publish
+type: post
+published: true
+---
+
 **Edito:**
 #Des Bêtes Sauvages
 ---

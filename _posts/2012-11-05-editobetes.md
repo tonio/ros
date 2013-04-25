@@ -8,9 +8,6 @@ type: post
 published: true
 ---
 
-**Edito:**
-#Des Bêtes Sauvages
----
 [edito Ski Magazine n°414, octobre-novembre 2012](Edito%20betes%20sauvages.pdf)
 
 **Je me sens mal et pourtant mes deux skis touchent la neige,** mes jambes sont fortes, le froid m'entoure. Je vois là haut la montagne qui attend patiemment, et je sais que je devrais en faire de même, laisser place au vide dans mon esprit, prendre le temps d'apprécier le moment présent, ne pas penser au passé, ne pas penser au futur.

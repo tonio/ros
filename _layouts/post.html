@@ -9,13 +9,9 @@
     <body>
         <section>
             <h1>
-                {{ page.title }}<small>,
-                par <a href="{{ site.root_uri }}">Mathieu Ros</a></small>
-                <span>
-                    {{ page.date | date_to_long_string }}
-                </span>
+                {{ page.title }}
+                <span>{{ page.date | date_to_long_string }}</span>
             </h1>
-
 
             {{ content }}
 

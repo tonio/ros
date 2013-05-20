@@ -55,6 +55,9 @@ i {
     -webkit-transition-property: opacity;
     -webkit-transition-duration: 0.3s;
 }
+img {
+    max-width: 100%;
+}
 a {
     color: #2AA198;
 }

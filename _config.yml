@@ -1,5 +1,5 @@
 safe: true
-# assets_path:
-# root_uri: /
-assets_path: /ros
-root_uri: /ros
+assets_path:
+root_uri: /
+# assets_path: /ros
+# root_uri: /ros

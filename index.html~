@@ -23,7 +23,7 @@
                     <i class="icon-twitter"></i>@skimath
                 </a> (en)
             </p>
-            <h2>MR Conseil : Communication Récits et Réseaux</h2>
+            <h2>Castor Media : Création Récits et Réseaux</h2>
             <p>
                 <a href="mailto:">
                     <i class="icon-mail"></i>mr@mathieuros.fr
@@ -41,10 +41,10 @@
                     <i class="icon-facebook-squared"></i>Profil Facebook<br>
                 </a>
 
-                Gontiere — 38380 St. Pierre de Chartreuse<br>
+                Les Cottaves — 38380 St. Pierre de Chartreuse<br>
                 36bis rue du la Tour d'Auvergne — 75009 Paris<br>
             </p>
-            <p>Télécharger ma <a href="~/MathieuRos.vcf">carte de visite au format VCF</a></p>
+            <p>Télécharger ma <a href="~/mathieuros.vcf">carte de visite au format VCF</a></p>
         </section>
         <link href='http://fonts.googleapis.com/css?family=Alegreya:400,400italic,700' rel='stylesheet' type='text/css'>
     </body>
